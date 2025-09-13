@@ -1,6 +1,6 @@
-![Stars](https://img.shields.io/github/stars/kullaniciAdi/repositoriAdi?style=flat&logo=github)
-![Forks](https://img.shields.io/github/forks/kullaniciAdi/repositoriAdi?style=flat&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/kullaniciAdi/repositoriAdi?color=brightgreen)
+![Stars](https://img.shields.io/github/stars/ebrar-M/html-beginner-notes?style=flat&logo=github)
+![Forks](https://img.shields.io/github/forks/ebrar-M/html-beginner-notes?style=flat&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/ebrar-M/html-beginner-notes?color=brightgreen)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 
 **---**
